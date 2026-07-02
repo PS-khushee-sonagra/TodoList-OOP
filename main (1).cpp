@@ -110,7 +110,7 @@ int main()
                 tasks[num -1].markComplete();
 
                 cout << "Task Completed!\n";
-            }
+            }else
                {
                 cout << "Invalid Task!\n";
             }
